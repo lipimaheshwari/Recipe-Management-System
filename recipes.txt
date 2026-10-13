@@ -1,0 +1,192 @@
+Name: Maggi
+Category: Snack
+Ingredients: Maggi noodles, water, masala packet
+Cooking Steps: Boil water, add noodles and masala, cook for 2 minutes
+Nutritional Info: 350 kcal
+========================================
+Name: Sandwich
+Category: Snack
+Ingredients: Bread, butter, tomato, cucumber
+Cooking Steps: Spread butter, add veggies, grill for 2 minutes
+Nutritional Info: 200 kcal
+========================================
+Name: Tea
+Category: Beverage
+Ingredients: Water, tea leaves, sugar, milk
+Cooking Steps: Boil water, add leaves, sugar, milk, and strain
+Nutritional Info: 120 kcal
+========================================
+Name: Coffee
+Category: Beverage
+Ingredients: Water, coffee powder, sugar, milk
+Cooking Steps: Boil water, add coffee powder and sugar, pour milk, and stir well
+Nutritional Info: 150 kcal
+========================================
+Name: Omelette
+Category: Breakfast
+Ingredients: Eggs, salt, pepper, onion, tomato
+Cooking Steps: Beat eggs with salt and veggies, cook on a pan until golden
+Nutritional Info: 180 kcal
+========================================
+Name: Poha
+Category: Breakfast
+Ingredients: Flattened rice, onion, mustard seeds, peanuts
+Cooking Steps: Soak poha, saute onion and seeds, mix with poha and peanuts
+Nutritional Info: 210 kcal
+========================================
+Name: Lemon Rice
+Category: Lunch
+Ingredients: Cooked rice, lemon juice, curry leaves, mustard seeds
+Cooking Steps: Mix rice with lemon juice and tempered spices
+Nutritional Info: 250 kcal
+========================================
+Name: Paneer Butter Masala
+Category: Main Course
+Ingredients: Paneer, tomato puree, butter, cream, spices
+Cooking Steps: Cook puree with spices and butter, add paneer cubes, simmer
+Nutritional Info: 420 kcal
+========================================
+Name: Vegetable Pulao
+Category: Main Course
+Ingredients: Rice, mixed vegetables, ghee, whole spices
+Cooking Steps: Sauté vegetables and spices, add rice and cook until done
+Nutritional Info: 380 kcal
+========================================
+Name: Idli
+Category: Breakfast
+Ingredients: Rice batter, urad dal batter, salt
+Cooking Steps: Steam the fermented batter for 10 minutes
+Nutritional Info: 150 kcal
+========================================
+Name: Dosa
+Category: Breakfast
+Ingredients: Rice batter, urad dal batter, oil
+Cooking Steps: Spread batter on hot pan, drizzle oil, and cook till crispy
+Nutritional Info: 180 kcal
+========================================
+Name: Chapati
+Category: Main Course
+Ingredients: Wheat flour, water, salt, ghee
+Cooking Steps: Knead dough, roll flat, and cook on tawa with ghee
+Nutritional Info: 120 kcal
+========================================
+Name: Aloo Paratha
+Category: Breakfast
+Ingredients: Wheat dough, boiled potato, spices, butter
+Cooking Steps: Stuff potato filling into dough, roll and cook with butter
+Nutritional Info: 300 kcal
+========================================
+Name: Fried Rice
+Category: Main Course
+Ingredients: Rice, soy sauce, vegetables, egg
+Cooking Steps: Stir-fry vegetables, add rice and sauce, mix well
+Nutritional Info: 400 kcal
+========================================
+Name: Pasta
+Category: Main Course
+Ingredients: Pasta, tomato sauce, olive oil, garlic
+Cooking Steps: Boil pasta, mix with sauce and herbs
+Nutritional Info: 350 kcal
+========================================
+Name: Vegetable Soup
+Category: Starter
+Ingredients: Mixed vegetables, pepper, salt, cornflour
+Cooking Steps: Boil vegetables and season with salt and pepper
+Nutritional Info: 120 kcal
+========================================
+Name: Fruit Salad
+Category: Dessert
+Ingredients: Apple, banana, mango, milk, honey
+Cooking Steps: Chop fruits, mix with milk and honey
+Nutritional Info: 200 kcal
+========================================
+Name: Pancake
+Category: Breakfast
+Ingredients: Flour, milk, egg, sugar, butter
+Cooking Steps: Mix batter and cook on a pan until golden brown
+Nutritional Info: 250 kcal
+========================================
+Name: Upma
+Category: Breakfast
+Ingredients: Rava, mustard seeds, curry leaves, onion
+Cooking Steps: Roast rava, cook with tempered spices and water
+Nutritional Info: 230 kcal
+========================================
+Name: Tomato Soup
+Category: Starter
+Ingredients: Tomato, garlic, butter, pepper, salt
+Cooking Steps: Boil and blend tomatoes, simmer with butter and seasoning
+Nutritional Info: 130 kcal
+========================================
+Name: Chicken Curry
+Category: Main Course
+Ingredients: Chicken, onion, tomato, spices
+Cooking Steps: Fry onion and tomato, add chicken and cook until tender
+Nutritional Info: 450 kcal
+========================================
+Name: Veg Biryani
+Category: Main Course
+Ingredients: Rice, mixed vegetables, biryani masala
+Cooking Steps: Cook vegetables with masala and layer with rice
+Nutritional Info: 420 kcal
+========================================
+Name: Moong Dal
+Category: Curry
+Ingredients: Moong dal, onion, tomato, cumin seeds
+Cooking Steps: Cook dal and temper with spices
+Nutritional Info: 220 kcal
+========================================
+Name: Curd Rice
+Category: Main Course
+Ingredients: Cooked rice, curd, mustard seeds, curry leaves
+Cooking Steps: Mix curd with rice and tempered spices
+Nutritional Info: 200 kcal
+========================================
+Name: Puri
+Category: Breakfast
+Ingredients: Wheat flour, salt, oil
+Cooking Steps: Make dough, roll small circles, and deep fry
+Nutritional Info: 260 kcal
+========================================
+Name: Bhindi Fry
+Category: Side Dish
+Ingredients: Ladyfinger, salt, turmeric, oil
+Cooking Steps: Slice bhindi and fry with spices until crisp
+Nutritional Info: 180 kcal
+========================================
+Name: Rasam
+Category: Curry
+Ingredients: Tamarind, tomato, pepper, cumin
+Cooking Steps: Boil all ingredients and season with mustard seeds
+Nutritional Info: 100 kcal
+========================================
+Name: Lassi
+Category: Beverage
+Ingredients: Curd, sugar, cardamom
+Cooking Steps: Blend curd with sugar and serve chilled
+Nutritional Info: 160 kcal
+========================================
+Name: Ice Cream
+Category: Dessert
+Ingredients: Milk, sugar, cream, vanilla essence
+Cooking Steps: Mix all and freeze until set
+Nutritional Info: 300 kcal
+========================================
+Name: Hakka Noodles
+Category: Main Course
+Ingredients: Noodles, vegetables, soy sauce, vinegar
+Cooking Steps: Boil noodles, stir-fry with vegetables and sauce
+Nutritional Info: 380 kcal
+========================================
+Name: Smoothie
+Category: Beverage
+Ingredients: Banana, milk, honey
+Cooking Steps: Blend all ingredients until smooth
+Nutritional Info: 180 kcal
+========================================
+Name: Gobi Manchurian
+Category: Snack
+Ingredients: Cauliflower, soy sauce, chili sauce, cornflour
+Cooking Steps: Fry cauliflower and toss in sauces
+Nutritional Info: 350 kcal
+========================================
